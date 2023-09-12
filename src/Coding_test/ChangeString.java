@@ -17,5 +17,7 @@ class ChangeString {
         Scanner s = new Scanner(System.in);
         String str = s.next();
         System.out.println(T.solution(str));
+
     }
+
 }
